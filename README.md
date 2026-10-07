@@ -20,8 +20,6 @@ Read `AGENTS.md`, all files under `docs/`, and everything under `shared/contract
 Architecture, data, security, and shared contracts are being finalized before feature implementation begins.
 Shared contracts are authoritative; interface changes must be explicit and reviewed by both owners.
 
-The supplied PRD retains references to `mobile/`. This repository uses `frontend/` for the frontend work area, as explicitly agreed by the owners; the canonical PRD has not been rewritten.
-
 ## Development workflow
 
 Never work directly on `main`. Backend and frontend work belongs on their respective branches or focused feature branches; shared foundation work uses `chore/project-foundation`.

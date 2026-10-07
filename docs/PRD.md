@@ -1332,10 +1332,10 @@ Backend:
 
 Mobile:
 
-- `mobile/app-shell`
-- `mobile/home`
-- `mobile/chat-list`
-- `mobile/conversation`
+- `frontend/app-shell`
+- `frontend/home`
+- `frontend/chat-list`
+- `frontend/conversation`
 
 Shared:
 
