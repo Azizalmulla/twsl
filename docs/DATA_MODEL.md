@@ -1,0 +1,3 @@
+# OctoChat Data Model
+
+Status: PENDING APPROVED SPECIFICATION
